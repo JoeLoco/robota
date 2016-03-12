@@ -6,6 +6,6 @@ Robota uses nodejs for server and phaser library to render the world!
 
 In Robata you can code your robot, push your robot to robota world, and watch!
 
-[Robota](https://www.youtube.com/watch?v=JVYvOeQOV7Q)
+[view video](https://www.youtube.com/watch?v=JVYvOeQOV7Q)
 
 
