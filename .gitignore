@@ -1,2 +1,4 @@
 node_modules
-robots/*.js
+robots/*
+!robots/sample-*.js
+npm-debug.log
