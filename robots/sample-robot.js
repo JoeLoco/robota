@@ -12,7 +12,7 @@ SampleRobot.prototype.onUpdate = function() {
 
 	// Overrride the update event
 	
-	this.moveRandom();
+	this.moveUp();
 	
 	console.log(this);
 	
